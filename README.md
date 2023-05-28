@@ -27,7 +27,7 @@ The Online Movie Booking System is a web-based application that allows users to 
 - Front-end: HTML, CSS, JavaScript
 - Back-end:php
 - Database: MySQL, 
-- Payment Gateway Integration: Stripe, PayPal
+- Payment Gateway Integration: VISA card, PayPal
 - Version Control: Git
 
 ## Documentation
